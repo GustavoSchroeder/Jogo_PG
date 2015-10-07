@@ -1,19 +1,12 @@
-font-style: italic;
-font-weight: bold;
-font-size: 30px;
-font-family: arial, sans-serif;
-		
 <b>Jogo Processamento Gráfico</b>
 
-Jogo feito para a matéria de processamento gráfico (UNISINOS)
+<p>Jogo feito para a matéria de processamento gráfico (UNISINOS)</p>
 
-This game was made for the subject of graphic processing at UNISINOS (Sao Leopoldo, RS, Brazil)
-The game was written in C++ with OpenGL.
-
-Arrows
+<p>This game was made for the subject of graphic processing at UNISINOS (Sao Leopoldo, RS, Brazil)</p>
+<p>The game was written in C++ with OpenGL.</p>
 
 <b>Controls</b>
-S - Start the game
-J - Jump
-Q - Quit the game
+<p>S - Start the game</p>
+<p>J - Jump</p>
+<p>Q - Quit the game</p>
 
