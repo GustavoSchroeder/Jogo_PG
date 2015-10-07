@@ -1,4 +1,8 @@
-p {font-family: arial, verdana, sans-serif;}
+font-style: italic;
+font-weight: bold;
+font-size: 30px;
+font-family: arial, sans-serif;
+		
 <b>Jogo Processamento Gráfico</b>
 
 Jogo feito para a matéria de processamento gráfico (UNISINOS)
